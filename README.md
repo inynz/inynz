@@ -1,6 +1,10 @@
 ## Hi there 👋
 
-  [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=iyye09)](https://solved.ac/iyye09)
+<div align="center">
+  <a href="https://solved.ac/iyye09">
+    <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=iyye09" alt="Solved.ac 프로필"/>
+  </a>
+</div>
 
 
 <div align=center><h1>📚 STACKS</h1></div>
