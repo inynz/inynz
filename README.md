@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=iyye09)](https://solved.ac/iyye09)
+<center>[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=iyye09)](https://solved.ac/iyye09)</center>
 
 <div align=center><h1>📚 STACKS</h1></div>
 
